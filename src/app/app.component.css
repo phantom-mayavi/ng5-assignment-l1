@@ -1,0 +1,10 @@
+.myheading {
+  color: darkblue;
+}
+.fade {
+  opacity: 1;
+}
+
+.fade:hover {
+  opacity: 0.5;
+}
